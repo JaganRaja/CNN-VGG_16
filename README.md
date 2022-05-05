@@ -1,2 +1,1 @@
-# general_template
-general template for any project
+# /r/ML_New/FullStackDS/deeplearning/projects/CNN-VGG_16
