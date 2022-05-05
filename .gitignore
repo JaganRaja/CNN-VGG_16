@@ -130,3 +130,4 @@ dmypy.json
 
 data/
 research_env/VGG16_full_model.h5
+research_env/trained_model.h5
