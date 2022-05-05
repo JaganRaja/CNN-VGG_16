@@ -131,3 +131,5 @@ dmypy.json
 data/
 research_env/VGG16_full_model.h5
 research_env/trained_model.h5
+research_env/tflite_model_dir/vgg16_model_quant.tflite
+research_env/tflite_model_dir/vgg16_model.tflite
